@@ -123,7 +123,7 @@
     "phantomjs-prebuilt": "^2.1.7",
     "protractor": "^3.2.2",
     "raw-loader": "0.5.1",
-    "remap-istanbul": "^0.6.3",
+    "remap-istanbul": "^0.9.4",
     "rimraf": "^2.5.2",
     "source-map-loader": "^0.1.5",
     "style-loader": "^0.13.1",
